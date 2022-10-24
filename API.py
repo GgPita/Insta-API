@@ -4,8 +4,8 @@ import requests
 e consultar informações de páginas corportativas do instagram'''
 ''''Autor: Gustavo Pita Bersaneti'''
 
-pageID = "110544383863225"
-access_token = "EAAPl1L0LH7wBALZCq6WA7IuZC9w4Tt9hNxdsbSL5vLS5AvZBCobIMKNBYgdMXt3qH6ZCzkdX5GuXRPKwq2s4i1ly6chRlzxyBiPZAHGvjZC0bQgt8z1gCZCFSBripPsXe4yXaL4h2dhKh41hg0owaSrqatGQ2H6PAe6av2Bz7fMSgGf0ZCSPjdwjZAA2XJPDxVeo7iGU6anME8w8aAmAQ187TGSiWd9jY0kYZD"
+pageID = "PAGE_ID"
+access_token = "ACCESS_TOKEN"
 
 opção = "SIM"
 while opção == "SIM":
